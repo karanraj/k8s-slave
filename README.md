@@ -16,6 +16,5 @@ Example Playbook
          - { role: karanraj.k8s_slave }
 
 * See Also
-  [k8s-master-node-setup]()
-  [AWS-Provision]()
+  [k8s-master-node-setup](https://galaxy.ansible.com/karanraj/k8s_master)
 
